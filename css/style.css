@@ -32,7 +32,7 @@ min-height: 700px;
     opacity: 0.8;
 }
 
-#home-section .fas {
+#home-section .fas, #create-section .fas{
     color: #008ed6;
     background: #fff;
     padding: 5px;
@@ -45,3 +45,4 @@ min-height: 700px;
     padding: 5px;
     border-radius: 5px;
 }
+
